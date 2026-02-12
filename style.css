@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    border: 2px solid black;
+    padding: 40px;
+}
+
+h2 {
+    color: green;
+}
+
+h3 {
+    color: #1a73e8;
+}
+
+address {
+    font-style: normal;
+}
